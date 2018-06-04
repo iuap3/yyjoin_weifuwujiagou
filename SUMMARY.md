@@ -13,4 +13,5 @@
    * [RPC框架iris](chapter4_section3.md)
    * [限流框架Potus](chapter4_section4.md)
    * [链路监控服务zsTree](chapter4_section5.md)
+   * [认证中心SDK](chapter4_section6.md)
 
